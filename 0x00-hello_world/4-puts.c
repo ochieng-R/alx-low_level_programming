@@ -1,9 +1,14 @@
+#include <stdio.h>
 /**
- * main-prints string using puts
- * Return zero if working else a returns a nonzero
+ *main- Entry point
+ *Description: Program prints a string using puts
+ *Return: Always 0 for (success)
  */
-int main (void)
+
+int main(void)
 {
+
 	puts("Programming is like building a multilingual puzzle\n");
-	returns (0);
+
+	return (0);
 }
